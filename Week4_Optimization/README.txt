@@ -4,7 +4,7 @@ Baseline Performance
 
 Device: Android Studio Emulator (Google SDK gphone64 x86_64 / emulator-5554). Development was done on Windows PC; physical device testing was not possible due to owning an iPhone and not having access to Xcode/macOS.
 
-FPS: Not recorded (Profiler capture focused on frame timing and subsystem breakdown)
+FPS: ~30 FPS (derived from mean frame time: 1000 / 33.45ms)
 
 Frame Time (Profiler Analyzer): Mean 33.45 ms, Max 43.50 ms
 
